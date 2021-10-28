@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Fri Jan  8 22:51:05 2021
-
-@author: User
-"""
-
 # Compute cosine similarity
 
 def cos_similarity(M):
